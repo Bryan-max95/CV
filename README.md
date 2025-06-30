@@ -15,8 +15,11 @@ Fundador de <a href="https://www.bwpentesting.com" target="_blank"><b>BWPentesti
 
 ## 🎓 Educación
 
-- 🎓 **Ingeniero en Informática** – *Universidad Tecnológica de Honduras (UTH)*  
-  <i>2013 - 2017</i>
+- 🎓 **Ingeniería en Informática** – *Universidad Tecnológica de Honduras (UTH)*  
+  <i>2014 - 2018</i>
+
+- 🎓 **Diplomado en Ciberseguridad Informática** – *UNITEC*  
+  <i>En curso | Enero 2025 - Diciembre 2025</i>
 
 ---
 
@@ -101,4 +104,3 @@ Fundador de <a href="https://www.bwpentesting.com" target="_blank"><b>BWPentesti
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f2937,111827&height=120&section=footer"/>
-
