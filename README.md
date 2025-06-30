@@ -1,89 +1,104 @@
-<h1 align="center">Hola 👋, soy Bryan Josué Cárcamo Matute</h1>
-<h3 align="center">Ingeniero en informática | Ciberseguridad ofensiva | Full-Stack Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f2937,111827&height=200&section=header&text=Bryan%20Josué%20Cárcamo%20Matute&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Ingeniero%20en%20Informática%20|%20CTO%20BWPentesting&descAlign=60&descSize=18"/>
+
+<h3 align="center">🚀 CTO en Ciberseguridad | 🧠 Hacker Ético | 🛡️ Arquitecto de Infraestructura | 🧩 Full Stack Dev</h3>
 
 ---
 
-🎯 Profesional proactivo, estructurado y orientado a resultados, con más de **9 años de experiencia en el sector IT**. Mi enfoque combina **desarrollo de software moderno**, **infraestructura híbrida** y **ciberseguridad ofensiva**, con pensamiento estratégico y ejecución técnica de alto nivel.
+<div align="center">
 
-🚀 Fundador y CTO de [BWPentesting](https://www.bwpentesting.com), firma especializada en simulación de amenazas avanzadas, Zero Trust y protección digital empresarial.
+💡 Profesional con más de <b>9 años</b> de experiencia en IT combinando <b>desarrollo moderno, infraestructura híbrida y ciberseguridad ofensiva</b>.  
+Fundador de <a href="https://www.bwpentesting.com" target="_blank"><b>BWPentesting</b></a> — firma especializada en simulaciones APT, Zero Trust y protección empresarial avanzada.
 
----
-
-### 📚 Educación
-
-- 🎓 **Ingeniería en Informática**  
-  Universidad Tecnológica de Honduras (UTH)  
-  *2014 - 2018*
+</div>
 
 ---
 
-### 💼 Experiencia Profesional
+## 🎓 Educación
 
-#### 👨‍💻 Fundador & CTO – [BWPentesting](https://www.bwpentesting.com)
-📍 Roatán, Honduras | 🗓️ Febrero 2025 - Actualidad  
-- Liderazgo en ciberseguridad ofensiva, Zero Trust y hardening
-- Desarrollo de plataformas seguras con **Next.js**, **Node.js**, **JWT**, **OAuth2** y **MFA**
-- Implementación de segmentación de red, detección de amenazas y análisis de malware
-
-#### 🛡️ Analista de Sistemas – Bay Islands Petroleum (BIP)
-📍 Islas de la Bahía | 🗓️ Mayo 2024 - Abril 2025  
-- Administración de infraestructura híbrida con **Azure** y **VMware**
-- Automatización con **PowerShell**, **Bash** y gestión de CVEs
-- Integración con **Microsoft Defender for Endpoint**, políticas IAM, Sentinel
-
-#### 🧪 Desarrollador Freelance
-🗓️ 2017 - 2023  
-- Desarrollo web moderno con **React**, **Next.js**, **Tailwind CSS**
-- Backend seguro con **Express**, **JWT**, **WebSockets**, y **Firebase**
-- Arquitectura CI/CD con **Git**, **Docker** y despliegue ágil
+- 🎓 **Ingeniero en Informática** – *Universidad Tecnológica de Honduras (UTH)*  
+  <i>2014 - 2018</i>
 
 ---
 
-### 🧠 Habilidades Técnicas
+## 🧠 Habilidades Técnicas
 
-#### 💻 Lenguajes
-`Python` `JavaScript` `TypeScript` `Dart` `C#` `C++` `Bash` `Assembler (x86)`  
-🛠️ Laravel (60%) | Flutter (Mobile Dev)
+### ⚙️ Lenguajes & Frameworks
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)  
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)  
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp)  
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)  
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)  
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
 
-#### ⚙️ Frameworks & Librerías
-- React, Next.js, Node.js, Express, Tailwind CSS
-- RESTful APIs, WebSockets, autenticación segura (OAuth2/JWT)
+### 🛡️ Ciberseguridad (Ofensiva y Defensiva)
+- Kali Linux • Metasploit • Burp Suite • Hydra • Nmap • Wireshark • ZAP  
+- Integraciones: Cisco Umbrella, Shodan, Vulners, Defender for Endpoint  
+- Especialista en Zero Trust, CVEs, Hardening, Red Team, IAM & EDR  
 
-#### 🛡️ Ciberseguridad
-- Offensive: Kali Linux, Metasploit, Nmap, Burp Suite, Hydra, Wireshark, SQLmap, John The Ripper, OWASP ZAP
-- Defensive: CVE Management, hardening, Zero Trust, segmentación
-- Integraciones: Cisco Umbrella, Shodan, Vulners, Microsoft Defender
+### ☁️ Cloud & Infra
+- **Azure:** Sentinel, Key Vault, AD, Defender  
+- **Google Cloud:** Compute, Firestore, IAM  
+- **AWS (40%):** EC2, S3, IAM, CloudWatch
 
-#### ☁️ Cloud & Infraestructura
-- **Microsoft Azure:** Sentinel, Key Vault, Azure AD, Defender
-- **Google Cloud:** Firestore, IAM, Cloud Functions
-- **AWS:** EC2, S3, IAM, CloudWatch (40%)
+### 🔁 DevOps & Infra Híbrida
+- Docker • CI/CD • GitHub Actions • VMware • Bash/PowerShell
 
-#### 🔄 DevOps & Virtualización
-- CI/CD con Docker, Git
-- VMware Workstation / ESXi
-- Infraestructuras híbridas con pruebas ofensivas virtualizadas
-
-#### 🗃️ Bases de Datos
-`MongoDB` `PostgreSQL` `Redis`
-
-#### 🔐 Otros
-- Microsoft Graph API, autenticación granular, dashboards interactivos
-- Seguridad por capas y control de acceso personalizado
+### 🗄️ Bases de Datos
+- MongoDB • PostgreSQL • Redis
 
 ---
 
-### 📫 Contacto
+## 🏢 Experiencia Profesional
+
+### 👨‍💻 Fundador & CTO — [BWPentesting](https://www.bwpentesting.com)
+🗓️ Feb 2025 - Actualidad  
+📍 Roatán, Honduras  
+> Firma especializada en simulación de amenazas, pruebas ofensivas y Zero Trust.  
+- Desarrollo full stack con **Next.js**, **Node.js**, **JWT/OAuth2**, **MFA**  
+- Arquitectura de protección con segmentación, detección y respuesta
+
+---
+
+### 🛡️ Analista de Sistemas — Bay Islands Petroleum (BIP)
+🗓️ Mayo 2024 - Abr 2025  
+> Supervisión de infraestructura híbrida en Azure y VMware.  
+- Integraciones con Defender, Sentinel, IAM, scripts de automatización
+
+---
+
+### 🧪 Freelance Dev (2017 - 2023)
+> Soluciones modernas con React, Express, Tailwind, Firebase  
+- APIs seguras, despliegues CI/CD, dashboards protegidos
+
+---
+
+## 🧩 Proyectos Clave
+
+- 🔥 **BWP Arena** – Simulador APT Warfare basado en campañas de grupos como APT29, Lazarus, etc.  
+- 🕵️‍♂️ **Agente Python** – Recolección de CVEs, comportamiento y estado de endpoints empresariales  
+- 📊 **Dashboard empresarial** – Control, monitoreo y respuesta de seguridad en tiempo real  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bryanjcarcamomatute&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjcarcamomatute&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contacto
 
 - 📧 bcarcamo@bwpentesting.com  
-- 📱 +504 9821-6096  
 - 🌐 [www.bwpentesting.com](https://www.bwpentesting.com)  
-- 📍 Roatán, Islas de la Bahía, Honduras
+- 📱 +504 9821-6096  
+- 📍 Roatán, Islas de la Bahía
 
 ---
 
-### 🧩 GitHub Stats (opcional)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bryanjcarcamomatute&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanjcarcamomatute&layout=compact&theme=radical" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f2937,111827&height=120&section=footer"/>
+
