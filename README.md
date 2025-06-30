@@ -16,7 +16,7 @@ Fundador de <a href="https://www.bwpentesting.com" target="_blank"><b>BWPentesti
 ## 🎓 Educación
 
 - 🎓 **Ingeniero en Informática** – *Universidad Tecnológica de Honduras (UTH)*  
-  <i>2014 - 2018</i>
+  <i>2014 - 2017</i>
 
 ---
 
