@@ -1,40 +1,40 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f2937,111827&height=200&section=header&text=Bryan%20Josué%20Cárcamo%20Matute&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Ingeniero%20en%20Computación%20|%20CTO%20BWPentesting&descAlign=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117,1f2937,111827&height=200&section=header&text=Bryan%20Josué%20Cárcamo%20Matute&fontSize=40&fontColor=ffffff&animation=twinkling&desc=Computer%20Engineer%20|%20CTO%20BWPentesting&descAlign=60&descSize=18"/>
 
-<h3 align="center">🚀 CTO en Ciberseguridad | 🧠 Hacker Ético | 🛡️ Especialista en Análisis de Sistemas | 🧩 Full Stack Dev</h3>
+<h3 align="center">🚀 CTO in Cybersecurity | 🧠 Ethical Hacker | 🛡️ Systems Analysis Specialist | 🧩 Full Stack Dev</h3>
 
 ---
 
 <div align="center">
 
-💡 **Especialista en Ciberseguridad y Análisis de Sistemas** con más de <b>9 años</b> de experiencia en IT, combinando <b>desarrollo moderno, infraestructura híbrida y ciberseguridad ofensiva/defensiva</b>.  
-Ingeniero en Computación graduado en la Universidad Tecnológica de Honduras (UTH), con especialización en ciberseguridad, pentesting y análisis de infraestructura tecnológica.  
-Me apasiona la protección de sistemas críticos, el análisis de malware y el desarrollo de software seguro.  
-Fundador de <a href="https://www.bwpentesting.com" target="_blank"><b>BWPentesting</b></a> — plataforma dedicada a la educación, entrenamiento y evaluación en ciberseguridad, simulaciones APT, Zero Trust y protección empresarial avanzada.
+💡 **Cybersecurity and Systems Analysis Specialist** with over <b>9 years</b> of experience in IT, combining <b>modern development, hybrid infrastructure, and offensive/defensive cybersecurity</b>.  
+Computer Engineering graduate from the Technological University of Honduras (UTH), specializing in cybersecurity, pentesting, and technological infrastructure analysis.  
+I am passionate about protecting critical systems, malware analysis, and secure software development.  
+Founder of <a href="https://www.bwpentesting.com" target="_blank"><b>BWPentesting</b></a> — a platform dedicated to education, training, and evaluation in cybersecurity, APT simulations, Zero Trust, and advanced enterprise protection.
 
 </div>
 
 ---
 
-## 🎓 Educación y Formación
+## 🎓 Education and Training
 
-- 🎓 **Ingeniería en Computación** – *Universidad Tecnológica de Honduras (UTH)*  
+- 🎓 **Computer Engineering** – *Technological University of Honduras (UTH)*  
   <i>2014 - 2017</i>
 
-- 🎓 **Diplomado en Ciberseguridad Informática** – *UNITEC*  
-  <i>En curso | Enero 2025 - Diciembre 2025</i>
+- 🎓 **Diploma in Computer Cybersecurity** – *UNITEC*  
+  <i>In progress | January 2025 - December 2025</i>
 
-- 📜 **Certificaciones**  
-  Más de 9 certificaciones avanzadas en Ciberseguridad, Pentesting y Seguridad de Infraestructura.  
-  Certificaciones Huawei (Software & Networking).  
-  Formación en Ingeniería Reversa, Análisis de Malware y Red Team Operations.  
-  Conocimientos avanzados en Kali Linux, Arch Linux, Wifislax, Ubuntu y entornos Linux generales.  
-  Práctica continua en entornos de seguridad, virtualización y hardening de sistemas.
+- 📜 **Certifications**  
+  More than 9 advanced certifications in Cybersecurity, Pentesting, and Infrastructure Security.  
+  Huawei Certifications (Software & Networking).  
+  Training in Reverse Engineering, Malware Analysis, and Red Team Operations.  
+  Advanced knowledge in Kali Linux, Arch Linux, Wifislax, Ubuntu, and general Linux environments.  
+  Continuous practice in security environments, virtualization, and system hardening.
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 🧠 Technical Skills
 
-### ⚙️ Lenguajes & Frameworks
+### ⚙️ Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
 ![Vue](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)  
@@ -47,93 +47,93 @@ Fundador de <a href="https://www.bwpentesting.com" target="_blank"><b>BWPentesti
 ![PowerShell](https://img.shields.io/badge/-PowerShell-05122A?style=flat&logo=powershell)  
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
 
-### 🛡️ Ciberseguridad (Ofensiva y Defensiva)
+### 🛡️ Cybersecurity (Offensive and Defensive)
 - **Pentesting (Red Team / Blue Team):** Kali Linux, Arch Linux, Wifislax, Metasploit, Burp Suite, Hydra, Nmap, ZAP.  
-- **Análisis de Malware:** x64dbg, Ghidra, IDA Free, Binary Ninja, WinDbg, Frida.  
-- **Red y Tráfico:** Wireshark, Shodan, Vulners.  
-- **Monitoreo y Gestión de Incidentes (SOC):** Splunk, Security Onion, ELK Stack, Detección y Respuesta ante Incidentes (DFIR).  
-- **Seguridad en Sistemas:** Cifrado, Autenticación, Hardening de Sistemas (Linux/Windows), Firewalls, Segmentación de Red, Control de Acceso.  
-- **Integraciones Avanzadas:** Cisco Umbrella, Microsoft Defender for Endpoint, Zero Trust, CVEs, IAM, EDR.  
-- **Conocimientos en Linux/Ubuntu:** Administración avanzada de servidores Linux (Ubuntu/Debian), scripting en Bash para automatización de seguridad, configuración de entornos seguros con AppArmor/SELinux, despliegues en contenedores y hardening contra exploits comunes.
+- **Malware Analysis:** x64dbg, Ghidra, IDA Free, Binary Ninja, WinDbg, Frida.  
+- **Network and Traffic:** Wireshark, Shodan, Vulners.  
+- **Monitoring and Incident Management (SOC):** Splunk, Security Onion, ELK Stack, Incident Detection and Response (DFIR).  
+- **System Security:** Encryption, Authentication, System Hardening (Linux/Windows), Firewalls, Network Segmentation, Access Control.  
+- **Advanced Integrations:** Cisco Umbrella, Microsoft Defender for Endpoint, Zero Trust, CVEs, IAM, EDR.  
+- **Linux/Ubuntu Knowledge:** Advanced Linux server administration (Ubuntu/Debian), Bash scripting for security automation, secure environment configuration with AppArmor/SELinux, container deployments, and hardening against common exploits.
 
 ### ☁️ Cloud & Infra
-- **Huawei Cloud & Networking:** Configuración y protección de entornos críticos.  
+- **Huawei Cloud & Networking:** Configuration and protection of critical environments.  
 - **Azure:** Sentinel, Key Vault, AD, Defender (100% proficiency).  
 - **Google Cloud:** Compute, Firestore, IAM.  
 - **AWS (40%):** EC2, S3, IAM, CloudWatch.  
-- **Virtualización:** VMware, VirtualBox.  
+- **Virtualization:** VMware, VirtualBox.  
 
-### 🔁 DevOps & Infra Híbrida
-- Docker • CI/CD • GitHub Actions • VMware • Bash/PowerShell • Desarrollo de API y Backend Seguro.
+### 🔁 DevOps & Hybrid Infra
+- Docker • CI/CD • GitHub Actions • VMware • Bash/PowerShell • Secure API and Backend Development.
 
-### 🗄️ Bases de Datos
+### 🗄️ Databases
 - MongoDB • PostgreSQL • Redis.
 
-### 🧰 Herramientas Favoritas
-| Tipo              | Herramientas                          |
-|-------------------|---------------------------------------|
-| Análisis Dinámico | x64dbg, WinDbg, Frida                 |
-| Análisis Estático | Ghidra, IDA Free, Binary Ninja        |
-| Red y Tráfico     | Wireshark, Nmap, Burp Suite           |
-| Automatización    | Python, Bash, PowerShell              |
-| Monitoreo / SOC   | Splunk, Security Onion, ELK Stack     |
+### 🧰 Favorite Tools
+| Type              | Tools                                |
+|-------------------|--------------------------------------|
+| Dynamic Analysis  | x64dbg, WinDbg, Frida                |
+| Static Analysis   | Ghidra, IDA Free, Binary Ninja       |
+| Network & Traffic | Wireshark, Nmap, Burp Suite          |
+| Automation        | Python, Bash, PowerShell             |
+| Monitoring / SOC  | Splunk, Security Onion, ELK Stack    |
 | Pentesting        | Kali Linux, Arch Linux, Wifislax, Metasploit |
 
 ---
 
-## 🏢 Experiencia Profesional
+## 🏢 Professional Experience
 
-### 👨‍💻 Fundador & CTO — [BWPentesting](https://www.bwpentesting.com)
-🗓️ Feb 2025 - Actualidad  
+### 👨‍💻 Founder & CTO — [BWPentesting](https://www.bwpentesting.com)
+🗓️ Feb 2025 - Present  
 📍 Roatán, Honduras  
-> Firma y plataforma especializada en simulaciones APT, Zero Trust, educación en ciberseguridad, entrenamiento y evaluación profesional.  
-- Desarrollo full stack con **Next.js**, **Node.js**, **Vue/Nuxt**, **JWT/OAuth2**, **MFA**.  
-- Arquitectura de protección con segmentación, detección y respuesta.  
-- Creación de herramientas y entornos de práctica para hacking ético.
+> Firm and platform specialized in APT simulations, Zero Trust, cybersecurity education, training, and professional evaluation.  
+- Full stack development with **Next.js**, **Node.js**, **Vue/Nuxt**, **JWT/OAuth2**, **MFA**.  
+- Protection architecture with segmentation, detection, and response.  
+- Creation of tools and practice environments for ethical hacking.
 
-### 🛡️ Analista de Sistemas — Bay Islands Petroleum (BIP)
-🗓️ Mayo 2024 - Abr 2025  
+### 🛡️ Systems Analyst — Bay Islands Petroleum (BIP)
+🗓️ May 2024 - Apr 2025  
 📍 Roatán, Honduras  
-> Supervisión de infraestructura híbrida en Azure y VMware, con enfoque en monitoreo inteligente (C5) e infraestructura Huawei.  
-- Integraciones con Defender, Sentinel, IAM, scripts de automatización.  
-- Participación en proyectos de monitoreo inteligente y análisis de sistemas críticos.
+> Supervision of hybrid infrastructure in Azure and VMware, with a focus on intelligent monitoring (C5) and Huawei infrastructure.  
+- Integrations with Defender, Sentinel, IAM, automation scripts.  
+- Participation in intelligent monitoring projects and critical systems analysis.
 
 ### 🧪 Freelance Dev (2017 - 2023)
-> Soluciones modernas con React, Express, Tailwind, Firebase, Python para automatización de seguridad.  
-- APIs seguras, despliegues CI/CD, dashboards protegidos.  
-- Análisis de malware y desarrollo de software seguro.
+> Modern solutions with React, Express, Tailwind, Firebase, Python for security automation.  
+- Secure APIs, CI/CD deployments, protected dashboards.  
+- Malware analysis and secure software development.
 
 ---
 
-## 🧩 Proyectos Destacados
+## 🧩 Highlighted Projects
 
-- 🔹 **Plataforma de Monitoreo C5**  
-  Sistema de aprendizaje y simulación de gestión de cámaras inspirado en los centros C5. Incluye módulos de análisis, seguridad y capacitación.  
-  🛡️ En desarrollo para entrenamiento en monitoreo y ciberseguridad urbana.
+- 🔹 **C5 Monitoring Platform**  
+  Learning and simulation system for camera management inspired by C5 centers. Includes analysis, security, and training modules.  
+  🛡️ In development for training in urban monitoring and cybersecurity.
 
 - 🔥 **BWPentesting.com / BWP Arena**  
-  Plataforma propia de ciberseguridad orientada a la formación técnica, retos de hacking ético, simulador APT Warfare basado en campañas de grupos como APT29, Lazarus, etc.  
-  Desarrollo de herramientas de análisis y defensa, con nuevos módulos y retos técnicos.
+  Own cybersecurity platform focused on technical training, ethical hacking challenges, APT Warfare simulator based on campaigns from groups like APT29, Lazarus, etc.  
+  Development of analysis and defense tools, with new modules and technical challenges.
 
-- 🔹 **Análisis de Binarios con x64dbg**  
-  Repositorio educativo donde explico cómo depurar ejecutables, detectar funciones críticas y comprender la lógica de un programa.  
-  👉 En desarrollo.
+- 🔹 **Binary Analysis with x64dbg**  
+  Educational repository explaining how to debug executables, detect critical functions, and understand program logic.  
+  👉 In development.
 
-- 🔹 **Automatizador de Escaneos de Red (Python + Nmap)**  
-  Script automatizado para pentesting y auditoría de puertos con generación de reportes y análisis en tiempo real.  
-  Incluye agente Python para recolección de CVEs, comportamiento y estado de endpoints empresariales.
+- 🔹 **Network Scan Automator (Python + Nmap)**  
+  Automated script for pentesting and port auditing with report generation and real-time analysis.  
+  Includes Python agent for CVE collection, behavior, and enterprise endpoint status.
 
-- 📊 **Dashboard Empresarial**  
-  Control, monitoreo y respuesta de seguridad en tiempo real, con interfaces en JavaScript/Vue/Nuxt.
+- 📊 **Enterprise Dashboard**  
+  Control, monitoring, and real-time security response, with JavaScript/Vue/Nuxt interfaces.
 
 ---
 
-## 🚀 Actualmente Trabajando En
-- Desarrollo de plataforma C5 educativa para entrenamiento en monitoreo y ciberseguridad urbana.  
-- Expansión de BWPentesting.com con nuevos módulos y retos técnicos.  
-- Investigación sobre detección de amenazas en tiempo real con herramientas open-source.  
-- Automatización de procesos de pentesting y análisis de tráfico de red.  
-- Integración avanzada de Ubuntu/Linux en entornos híbridos para hardening y despliegues seguros.
+## 🚀 Currently Working On
+- Development of educational C5 platform for training in urban monitoring and cybersecurity.  
+- Expansion of BWPentesting.com with new modules and technical challenges.  
+- Research on real-time threat detection with open-source tools.  
+- Automation of pentesting processes and network traffic analysis.  
+- Advanced integration of Ubuntu/Linux in hybrid environments for hardening and secure deployments.
 
 ---
 
@@ -146,12 +146,12 @@ Fundador de <a href="https://www.bwpentesting.com" target="_blank"><b>BWPentesti
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 - 📧 bcarcamo@bwpentesting.com  
 - 🌐 [www.bwpentesting.com](https://www.bwpentesting.com)  
 - 📱 +504 9821-6096  
-- 📍 Roatán, Islas de la Bahía, Honduras
+- 📍 Roatán, Bay Islands, Honduras
 
 ---
 
