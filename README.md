@@ -4,7 +4,16 @@
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-
+<div align="center">
+  <p>Visitor count</p>
+  <img src="https://komarev.com/ghpvc/?username=Bryan-max95&color=00E5FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <br/>
+</div>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bryan-max95&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-max95&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bryan-max95&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
+</div>
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0a1628,100:0d1117&height=280&section=header&text=Bryan%20Josu%C3%A9%20C%C3%A1rcamo&fontSize=42&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Cárcamo%20Matute&descFontSize=0&stroke=00E5FF&strokeWidth=2" width="100%"/>
 
 </div>
